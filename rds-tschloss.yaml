@@ -37,7 +37,7 @@ objects:
     name: ${APPLICATION_NAME}
   spec:
     host: ${HOSTNAME_HTTP}
-    path: kie-server/services/rest/server
+    path: /kie-server/services/rest/server
     to:
       name: ${APPLICATION_NAME}
 - apiVersion: v1
