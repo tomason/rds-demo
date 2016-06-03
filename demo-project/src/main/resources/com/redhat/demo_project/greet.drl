@@ -1,0 +1,9 @@
+package com.redhat.demo_project;
+
+rule "Greet"
+when
+  $obj: Object()
+then
+  System.out.println("Hello " + $obj.toString());
+end
+
