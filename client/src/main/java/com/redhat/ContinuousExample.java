@@ -15,7 +15,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class ContinuousExample {
-	private static final String ENDPOINT = "http://kie-app-cruyff-rds-training.apps.devel.xpaas/kie-server/services/rest/server";
+	private static final String ENDPOINT = "http://kie-app-cruyff-rds-training.apps.latest.xpaas/kie-server/services/rest/server";
 	private static final String USERNAME = "kieserver";
 	private static final String PASSWORD = "yyvVpk6!";
 

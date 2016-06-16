@@ -17,14 +17,14 @@
       <repositories>
         <repository>
           <id>openshift-mirror</id>
-          <url>http://maven.devel.xpaas/api/group/public/</url>
+          <url>http://maven.latest.xpaas/api/group/public/</url>
         </repository>
       </repositories>
 
       <pluginRepositories>
         <pluginRepository>
           <id>openshift-mirror</id>
-          <url>http://maven.devel.xpaas/api/group/public/</url>
+          <url>http://maven.latest.xpaas/api/group/public/</url>
         </pluginRepository>
       </pluginRepositories>
     </profile>
